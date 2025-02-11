@@ -34,16 +34,8 @@ Hemos trabajado para mejorar nuestro gimnasio (SUM), incorporando equipamiento d
 
 **💰 Total de inversión:** $4.253.000
 
-<!-- ## 📷 Transformación del SUM -->
-
-<!-- ![Nuevas incorporaciones](ruta-a-la-imagen1.jpg)
-*Equipamiento adquirido para potenciar los entrenamientos.*
-
-![Entrenamiento en acción](ruta-a-la-imagen2.jpg)
-*Jugadores utilizando el nuevo material en el SUM.*   -->
-
 ---
 
-Gracias a esta inversión, nuestro gimnasio se ha transformado en un espacio mejor equipado y más funcional, beneficiando a jugadores de todas las categorías. Seguimos comprometidos con brindar herramientas de calidad para el desarrollo deportivo de nuestra comunidad.
+Gracias a esta inversión, nuestro gimnasio se ha transformado en un espacio mejor equipado y más funcional, beneficiando a jugadores de todas las categorías. Seguimos comprometidos con brindar herramientas de calidad para el desarrollo deportivo.
 
 🚀 **¡Sumate al crecimiento del SUM!**

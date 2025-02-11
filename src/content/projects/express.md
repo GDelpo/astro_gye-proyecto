@@ -38,17 +38,8 @@ Las obras ya comenzaron con el objetivo de tenerlo listo antes del primer partid
 
 ## 📷 Avance de obras
 
-<!-- ✅ **Compra de materiales** y entrega para comenzar con la construccion.
-![Materiales](/express/avance1.png) -->
-
 ✅ **Desarmado de la barra** del salón y la cocina para luego comenzar con las nuevas barras de cemento alisado.
 ![Espacio para la barra](/express/avance1.png)
-
-<!-- ![Obras en proceso](ruta-a-la-imagen1.jpg)
-*Estado actual de la renovación del "Express".*
-
-![Diseño proyectado](ruta-a-la-imagen2.jpg)
-*Visualización del espacio renovado.*   -->
 
 ---
 
